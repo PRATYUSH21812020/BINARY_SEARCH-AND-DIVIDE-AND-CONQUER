@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-// rahul has a sorted array of numbers from which he has to find a number quickly use binary search
+// rahul has a sorted array of numbers from which he has to find a number his friend by mistake rotated the array now rahul has no time to sort it again help him to find 
+// the numbers from the rotated array 
 int binary_search(vector<int>&v,int start,int end,int number)
 {
   // problem on monotonic search space
